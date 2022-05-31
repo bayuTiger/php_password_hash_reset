@@ -2,5 +2,5 @@
 
 ## 参照サイト
 
-https://zenn.dev/syamozipc/articles/php_password_reset
-https://zenn.dev/syamozipc/articles/php_auth_register
+- https://zenn.dev/syamozipc/articles/php_password_reset
+- https://zenn.dev/syamozipc/articles/php_auth_register
